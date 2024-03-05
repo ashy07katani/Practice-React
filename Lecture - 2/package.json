@@ -2,7 +2,7 @@
   "name": "lecture---2",
   "version": "1.0.0",
   "description": "this is namaste react lecture 2 ",
-  "main": "n",
+
   "scripts": {
     "test": "just"
   },
@@ -17,6 +17,15 @@
   },
   "homepage": "https://github.com/ashy07katani/Practice-React#readme",
   "devDependencies": {
-    "parcel": "^2.12.0"
-  }
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 Chrome version"
+  ]
+
 }
