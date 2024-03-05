@@ -1,0 +1,22 @@
+{
+  "name": "lecture---2",
+  "version": "1.0.0",
+  "description": "this is namaste react lecture 2 ",
+  "main": "n",
+  "scripts": {
+    "test": "just"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashy07katani/Practice-React.git"
+  },
+  "author": "ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashy07katani/Practice-React/issues"
+  },
+  "homepage": "https://github.com/ashy07katani/Practice-React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
